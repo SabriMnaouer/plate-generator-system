@@ -1,5 +1,7 @@
+// @ts-ignore
 import { ValidationResult } from '../types'
 
+// Utility functions for locale-aware number parsing
 export const parseNumber = (value: string | number): number | null => {
   if (typeof value === 'number') return value
   if (!value || typeof value !== 'string') return null

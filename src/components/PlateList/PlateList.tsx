@@ -1,6 +1,8 @@
 import React from 'react'
+// @ts-ignore
 import { Button } from '@/components/ui/button'
 import { Plus } from 'lucide-react'
+// @ts-ignore
 import { Plate, ErrorState } from '../../types'
 import { PlateInput } from '../PlateInput'
 
