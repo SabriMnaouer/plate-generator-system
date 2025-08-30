@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The **Plate Generator System** is an advanced web application meticulously engineered to provide users with a powerful and intuitive platform for configuring and visualizing custom wall plates. Developed with cutting-edge **React 18** and **TypeScript**, this application stands as a testament to modern web development, offering dynamic plate management, real-time dimensional input, and sophisticated image rendering capabilities, including an innovative mirroring function for expansive configurations. Its design prioritizes a fluid and responsive user experience across all devices, from high-resolution desktops to mobile handsets, underpinned by a foundation of exceptional performance, robust type safety, and effortless maintainability.
+The **Plate Generator System** is an advanced web application meticulously engineered to provide users with a powerful and intuitive platform for configuring and visualizing custom wall plates. Developed with cutting-edge **React 19** and **TypeScript**, this application stands as a testament to modern web development, offering dynamic plate management, real-time dimensional input, and sophisticated image rendering capabilities, including an innovative mirroring function for expansive configurations. Its design prioritizes a fluid and responsive user experience across all devices, from high-resolution desktops to mobile handsets, underpinned by a foundation of exceptional performance, robust type safety, and effortless maintainability.
 
 This project is a comprehensive showcase of best-in-class software engineering practices, illustrating a professional paradigm for application architecture, state management, rigorous input validation, and adaptive responsive design. It serves as an invaluable resource for developers aspiring to master the complexities of building high-quality, interactive React applications, with a strong emphasis on leveraging TypeScript to achieve unparalleled code reliability and an optimized developer workflow.
 
@@ -22,7 +22,7 @@ This project is a comprehensive showcase of best-in-class software engineering p
 
 -   **Validation Feedback**: A screenshot showing an input field with an active validation error message.
     ![Validation Feedback](src/validation-error.png)
-    
+
 ## Key Features
 
 -   **Dynamic Plate Configuration**: Seamlessly add, remove, and modify plate specifications with immediate visual feedback.
