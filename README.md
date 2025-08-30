@@ -4,6 +4,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Technologies](https://img.shields.io/badge/React-TypeScript-blueviolet)
 
+🔗 **Live Demo**: [plate-generator-system.vercel.app](https://plate-generator-system-5oxt.vercel.app)
+
 ## Introduction
 
 The **Plate Generator System** is an advanced web application meticulously engineered to provide users with a powerful and intuitive platform for configuring and visualizing custom wall plates. Developed with cutting-edge **React 19** and **TypeScript**, this application stands as a testament to modern web development, offering dynamic plate management, real-time dimensional input, and sophisticated image rendering capabilities, including an innovative mirroring function for expansive configurations. Its design prioritizes a fluid and responsive user experience across all devices, from high-resolution desktops to mobile handsets, underpinned by a foundation of exceptional performance, robust type safety, and effortless maintainability.
