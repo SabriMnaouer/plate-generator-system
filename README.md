@@ -14,10 +14,10 @@ This project is a comprehensive showcase of best-in-class software engineering p
 ## Screenshots
 
 -   **Desktop View**: A full-screen view of the application on a desktop, showcasing the dual-panel layout.
-    ![Desktop View](src/desktop-view.png)
+    ![Desktop View](src/assets//desktop-view.png)
 
 -   **Mobile View**: A view of the application on a mobile device, demonstrating the stacked layout and touch-friendly interface.
-    ![Mobile View](src/mobile-view.png)
+    ![Mobile View](src/assets//mobile-view.png)
 
 
 -   **Validation Feedback**: A screenshot showing an input field with an active validation error message.
